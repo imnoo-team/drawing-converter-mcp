@@ -113,6 +113,31 @@ This package is built from the Drawing Converter monorepo at [Imnoo](https://www
 
 Issues and feature requests are welcome in this repository.
 
+## About Imnoo
+
+[Imnoo](https://www.imnoo.com) is the AI-powered planning, scheduling and
+quoting platform for CNC manufacturers — trusted by over 3,000 shops.
+
+One system for the whole job, not just the spindle time:
+
+- **Planning** — automatic manufacturing plans, machine recommendation, raw
+  material, catalog and purchase-part sourcing, subcontracting. Beyond milling
+  and turning: deep hole drilling, sheet metal, casting, profile parts.
+- **Quoting** — AI cost and cycle-time estimation for milling, turning and EDM
+  from a 2D PDF alone; feature-by-feature costing; market-price benchmarking;
+  hourly-rate calculation; a 24/7 instant-quoting webshop.
+- **Drawing intelligence** — automatic tolerance extraction, 2D-to-3D matching,
+  axis and orientation detection, generated quality-check protocols.
+- **CAM** — AI tool recommendation, automatic toolpath and G-code generation,
+  and connected machines feeding real production data back into every quote.
+- **Libraries and insights** — your own tool and material libraries, plus a
+  searchable database of every part you've ever quoted.
+- **IP protection** — physically separated tenants, automatic drawing masking,
+  Swiss hosting, end-to-end encryption.
+
+Quote the complete job — not just the spindle time.
+[Book a demo at imnoo.com](https://www.imnoo.com)
+
 ## License
 
 [MIT](./LICENSE) © Imnoo AG
