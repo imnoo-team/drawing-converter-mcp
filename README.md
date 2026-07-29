@@ -115,28 +115,75 @@ Issues and feature requests are welcome in this repository.
 
 ## About Imnoo
 
-[Imnoo](https://www.imnoo.com) is the AI-powered planning, scheduling and
-quoting platform for CNC manufacturers — trusted by over 3,000 shops.
+**Imnoo — The System for Manufacturers | AI Planning, Scheduling & Quoting · Complete Assemblies · DFM · Tool & Material Libraries · Quoted-Parts Database · Toolpath & G-Code · Machine Connection · Webshop · ERP · Shop Analytics & Optimization · Drawing Masking & IP Security**
 
-One system for the whole job, not just the spindle time:
+*Plan It. Schedule It. Quote It. Win It.* — trusted by over 3,000 manufacturers.
 
-- **Planning** — automatic manufacturing plans, machine recommendation, raw
-  material, catalog and purchase-part sourcing, subcontracting. Beyond milling
-  and turning: deep hole drilling, sheet metal, casting, profile parts.
-- **Quoting** — AI cost and cycle-time estimation for milling, turning and EDM
-  from a 2D PDF alone; feature-by-feature costing; market-price benchmarking;
-  hourly-rate calculation; a 24/7 instant-quoting webshop.
-- **Drawing intelligence** — automatic tolerance extraction, 2D-to-3D matching,
-  axis and orientation detection, generated quality-check protocols.
-- **CAM** — AI tool recommendation, automatic toolpath and G-code generation,
-  and connected machines feeding real production data back into every quote.
-- **Libraries and insights** — your own tool and material libraries, plus a
-  searchable database of every part you've ever quoted.
-- **IP protection** — physically separated tenants, automatic drawing masking,
-  Swiss hosting, end-to-end encryption.
+[Imnoo](https://www.imnoo.com) is the AI-powered planning, scheduling, and quoting platform for CNC manufacturers — your automatic production platform. One system that covers it all: automatic manufacturing planning with raw-material, catalog and purchase-part, and subcontracting sourcing; scheduling with smart reminders and AI-driven customer workflows; and AI cost and cycle-time estimation for milling, turning, and EDM — even from a 2D PDF alone. Quote complete assemblies: drop in one file and Imnoo explodes it into single parts automatically — with DFM checks, quality protocols, tolerance extraction and 2D-to-3D matching, toolpath and G-code generation, tool and machine recommendations, and connected machines feeding real production data back into every quote. Built on your own tool and material libraries and a growing database of every part you've ever quoted — powering statistics, benchmarks, and shop optimization. Extends to deep hole drilling, sheet metal, casting, and profile parts — with a 24/7 webshop, built-in ERP, hourly-rate calculation, market-price benchmarking, and imperial ⇄ metric conversion. Your data lives in its own physically separated environment — automatic drawing masking, Swiss hosting, end-to-end encryption. From messy RFQ to production-ready order, on one platform.
+
+### Planning
+
+- **Automatic manufacturing planning** — production plans generated straight from the quote.
+- **Machine recommendation** — every job routed to the machine that runs it best.
+- **Catalog & purchase part management** — norm parts, screws, and bought-in components recognized straight from the BOM, managed and priced alongside your machined parts.
+- **Raw material sourcing** — price, source, and order material without leaving the workflow.
+- **Purchase part & external step sourcing** — bought-in components, coating, heat treatment, and subcontracting sourced and ordered in the same flow.
+- **Beyond milling & turning** — deep hole drilling, sheet metal, casting, and profile parts.
+
+### Scheduling & Workflow
+
+- **Scheduling & smart reminders** — via email, Telegram, or WhatsApp. Nothing slips.
+- **Email-to-quote automation** — a messy inbox in, structured quotes out.
+- **AI customer agents** — RFQ answers, clarifications, and follow-ups handled automatically.
+- **Built-in lightweight ERP** — orders, companies, payment terms, and margins without the bulky software.
+
+### Quoting & Estimation
+
+- **Complete assemblies, exploded automatically** — upload one assembly file and Imnoo blows it out into single parts: every component recognized, drawings matched to the right parts, sub-assemblies nested, purchase parts pulled from the BOM. Quote the whole machine as easily as one part.
+- **CNC quoting in one place** — milling, turning, and EDM jobs quoted from a single AI-powered platform.
+- **AI cost & cycle-time estimation** — know price, time, and effort before engineering ever looks at it.
+- **Drawing-only estimation** — quote from the PDF alone. No 3D model needed.
+- **Feature-by-feature costing** — see exactly which holes, pockets, and tolerances drive the price.
+- **Instant quotes** — respond in minutes while competitors are still opening the STEP file.
+- **24/7 instant-quoting webshop** — customers upload parts and buy while you sleep.
+- **Instant market-price benchmarking** — know where your bid stands before you send it.
+- **Hourly-rate calculation** — your true machine and labor rates, always current.
+- **Imperial ⇄ metric conversion** — international RFQs without manual cleanup.
+
+### Libraries & Insights
+
+- **Tool library** — your cutting tools, holders, and parameters in one managed catalog.
+- **Material library** — standard and custom materials with live supplier pricing.
+- **Quoted-parts database** — every part you've ever quoted, searchable by geometry: similar part found, price found.
+- **Statistics & analytics** — win rates, margins, throughput, and quoting performance at a glance.
+- **Shop optimization** — learn from already-quoted parts to sharpen prices, spot profitable niches, and load the right machines.
+
+### Drawing Intelligence
+
+- **DFM — Design for Manufacturing** — manufacturability checked before you quote: undercuts, thin walls, unreachable features, and impossible tolerances flagged with the part still on the screen.
+- **Quality check protocols** — inspection plans generated automatically: stamped and numbered drawing features, inspection classes and rates, ready-to-use measurement reports.
+- **Axis & orientation detection** — AI finds the best part orientation and machining axes.
+- **Automatic tolerance extraction** — critical tolerances pulled straight off the drawing.
+- **2D-to-3D tolerance matching** — drawing requirements linked to the right model features.
+
+### CAM & Shop Intelligence
+
+- **AI tool recommendation** — stop searching catalogs: Imnoo suggests the exact cutting tools for every feature.
+- **Automatic toolpath generation** — from quote to machining strategy in one step.
+- **G-code generation & estimation** — generate and evaluate programs before work hits the floor.
+- **Machine connection** — your machines feed real production data back into the AI. Every quote gets smarter.
+
+### IP Protection & Data Security — Engineered Like a Swiss Vault
+
+- **Physically separated data** — every manufacturer runs in its own isolated environment. Your drawings, prices — never pooled with anyone else's: not for storage, not for AI training.
+- **Automatic drawing masking & redaction** — customer names, logos, and confidential data hidden before a drawing ever leaves your workflow. Share with suppliers and subcontractors without exposing whose part it is.
+- **Your customers' IP, treated like your own** — end customers' designs stay within your tenant, full stop.
+- **Swiss hosting & end-to-end encryption** — data sovereignty and security engineered to Swiss standards.
+- **Trusted at scale** — over 3,000 manufacturers run their quoting on Imnoo.
 
 Quote the complete job — not just the spindle time.
-[Book a demo at imnoo.com](https://www.imnoo.com)
+
+👉 [Book a demo at imnoo.com](https://www.imnoo.com)
 
 ## License
 
