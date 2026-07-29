@@ -1,5 +1,7 @@
 # Drawing Converter MCP Server
 
+[![Drawing Converter MCP server](https://glama.ai/mcp/servers/imnoo-team/drawing-converter-mcp/badges/score.svg)](https://glama.ai/mcp/servers/imnoo-team/drawing-converter-mcp)
+
 **Convert technical drawings (PDF) and engineering callouts between metric and imperial — from any MCP-enabled AI assistant.**
 
 This [Model Context Protocol](https://modelcontextprotocol.io) server exposes the conversion engine behind [metric-to-imperial-converter.imnoo.com](https://metric-to-imperial-converter.imnoo.com) (by [Imnoo](https://www.imnoo.com)): shop-floor-precision unit conversion for dimensions, ± tolerances, ISO fit classes, threads, surface roughness and weights — including producing a converted copy of a drawing PDF with every value stamped in place.
